@@ -2,7 +2,7 @@
 Jeremy Ha's Online Portfolio
 
 ## Description
-This online portfolio highlights my achievements and goals as an aspiring software engineer. Feel free to look around and use the "Contact Me" tab to reach out to me.
+This repository holds the first version of my online portfolio that I made my freshman year of high school.
 
 ## Usage
-This portfolio is accessible at https://jormyy.github.io/portfoliov1
+This portfolio is accessible at https://jormyy.github.io/portfoliov1/
